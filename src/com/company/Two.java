@@ -5,9 +5,9 @@ public class Two {
 }
 //6.1
 // distanceInKm - distance расстояние может быть не только в км
-// quantity - quantityOfWheels
+// countOFHorseForces - power
 // lengthAndWidth - landArea
-// button - Redbutton
+// callsAndSeller -  conversion
 // peoplePerDay - views
 
 //6.2

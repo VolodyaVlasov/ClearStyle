@@ -13,5 +13,4 @@ public class Eigth {
     // "daily report" = public static final String DAILY_REPORT = "daily report" повторяющиеся значение вынесенно в константу
     // "planned report" = public static final String PLANNED_REPORT = "planned report"
     //  x < array[i] - boolean lessCurrent = x < array[i] - проверка вынесена в отдельную переменную
-
 }

@@ -46,10 +46,4 @@ public class Nine {
 //
 //    Long startSpeed; final Long startSpeed;
 //    начальная скорость не меняется
-
-
-
-
-
-
 }

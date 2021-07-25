@@ -31,10 +31,10 @@ public class Nine {
 //    Long averageDepth; averageDepth = null;
 //    добавил присвоение null после использования
 //
-//    int sum; sum = -1;
+//    int sum; sum = - 1;
 //    присвоил недопустимое значение
 //
-//    int length; length = -1;
+//    int length; length = - 1;
 //    присвоил недопустимое значение
 //
 //    int index; перенес объявление в цикл
